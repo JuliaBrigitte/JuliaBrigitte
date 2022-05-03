@@ -1,7 +1,7 @@
-## Welcome to my github page
+# Welcome to my github page
 
 
-# Webpages with my solutions to techreturners exercises
+## Webpages with my solutions to techreturners exercises
 
 [https://juliabrigitte.github.io/lm-code-react-hooks-api-calls-disney/](https://juliabrigitte.github.io/lm-code-react-hooks-api-calls-disney/)
 
