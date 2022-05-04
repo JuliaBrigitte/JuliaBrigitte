@@ -4,7 +4,7 @@
 
 [Tokamak Particle Simulator](https://warwick.ac.uk/fac/sci/physics/research/cfsa/research/wpc/tps/)
 
-[Plasma Waves Analyzer](https://warwick.ac.uk/fac/sci/physics/research/cfsa/research/wpc/plasmawavesanalyzer/)
+[Plasma Waves Analyzer](https://warwick.ac.uk/fac/sci/physics/research/cfsa/research/wpc/plasmawavesanalyzer/userguide/)
 
 ## Webpages with my solutions to techreturners exercises
 
