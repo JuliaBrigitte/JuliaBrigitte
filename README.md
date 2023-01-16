@@ -6,7 +6,7 @@
 
 [Plasma Waves Analyzer](https://warwick.ac.uk/fac/sci/physics/research/cfsa/research/wpc/plasmawavesanalyzer/userguide/)
 
-## Webpages with my solutions to techreturners exercises
+## Exercises
 
 [https://juliabrigitte.github.io/lm-code-react-hooks-api-calls-disney/](https://juliabrigitte.github.io/lm-code-react-hooks-api-calls-disney/)
 
